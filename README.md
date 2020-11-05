@@ -1,30 +1,18 @@
 # AngularProyecto
+Proyecto desarrollado por un programador "novato" - Angel Sosa Gonzalez
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+# Pasos previos para descargar el proyecto
+1. Descargaremos NODEJs:
+  - https://nodejs.org/es/
+2. Despues VSCode (O cualquier entorno, yo utilo este personalmente)
+  - https://code.visualstudio.com/
+3. Teniendo todo los recursos descargados vamos a instalar Angular CLI
+  (Este comando va en la terminal) - npm install -g @angular/cli
 
-## Development server
+(Este proyecto ya tiene instalado las dependencias de Bootstrap y FontAwesome, asi que no te preocupes)
+Te estaras preguntando donde esta los demas modulos del archivo, estos estan en un documento en Drive, link abajo :)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Disfruta programando que solo tenemos eso...
 
 ## src, node_modules and .firebase
 LINK: https://drive.google.com/drive/folders/1ZnPs-74H87MepgkBGZ4Bi4y917t3zahS?usp=sharing
