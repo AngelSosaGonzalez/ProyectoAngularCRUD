@@ -16,3 +16,6 @@ Te estaras preguntando donde esta los demas modulos del archivo, estos estan en 
 
 ## src, node_modules and .firebase
 LINK: https://drive.google.com/drive/folders/1ZnPs-74H87MepgkBGZ4Bi4y917t3zahS?usp=sharing
+
+Programa basado en:
+https://www.youtube.com/watch?v=WND9mw3HiBM
